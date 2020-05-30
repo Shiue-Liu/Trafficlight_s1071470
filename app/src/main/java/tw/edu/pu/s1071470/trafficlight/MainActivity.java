@@ -38,4 +38,5 @@ public class MainActivity extends AppCompatActivity {
     public void EndApp(View v){
         finish();
     }
+    
 }
